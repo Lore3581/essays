@@ -24,7 +24,7 @@ This project seeks to find five to ten writers who would like to envision a shar
 
 The specifics of the storyworld, as well as the pacing for writing this project, will all be determined by the participating writers. 
 
-[You can express you interest in joining the Emergent Strategy Writing Collective by filling out this Google form.]( https://adriennemareebrown.net/book/emergent-strategy/)
+**[You can express you interest in joining the Emergent Strategy Writing Collective by filling out this Google form.]( https://adriennemareebrown.net/book/emergent-strategy/)**
 
 # Fiction-Writing Through Collaborative Ideation
 
@@ -83,7 +83,7 @@ In their collaboration for Octavia’s Brood: Science Fiction Stories from Socia
 
 The intention of the Emergent Strategy Writing Collective is to rely on collaborative ideation, the concept of “all organizing is science fiction,” and any other concepts and considerations drawn from brown’s writings on emergent strategy to create a meaningful and compelling story as told from various character perspectives and authors to imagine possibilities and envision new worlds we could be bold enough to strive toward. 
 
-[You can express you interest in joining the Emergent Strategy Writing Collective by filling out this Google form.]( https://adriennemareebrown.net/book/emergent-strategy/)
+**[You can express you interest in joining the Emergent Strategy Writing Collective by filling out this Google form.]( https://adriennemareebrown.net/book/emergent-strategy/)**
 
 <small>
 > "Fiction that centers those who are currently marginalized —not to be nice, but because those who survive on the margins tend to be the most experientially innovative—practicing survival-based efficiency, doing the most with the least, an important skill area on a planet whose resources are under assault by less marginalized people. Visionary fiction is constantly applying lessons from our past to our future(s). The best way to practice visionary fiction is to get to writing. […] You have worlds inside you. You have permission to share them.” — adrienne maree brown in _Emergent Strategy: Shaping Change, Changing Worlds_
