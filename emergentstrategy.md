@@ -12,7 +12,7 @@
 </style>
 
 .ve-header "The Emergent Strategy Writing Collective — Call for Collaborators" position=top sticky background=gh:Lore3581/media/Computer.jpeg
-<br><br>
+<br>
 <small>
 > “in order to create a world that works for more people, for more life, we have to collaborate on the process of dreaming and visioning and implementing that world. We have to recognize that a multitude of realities have, do, and will exist. Collaborative Ideation is a way to get into this—ideation is the process of birthing new ideas, and the practice of collaborative ideation is about sharing that process as early as possible.” — adrienne maree brown in _Emergent Strategy: Shaping Change, Changing Worlds_
 </small>
@@ -85,7 +85,9 @@ The intention of the Emergent Strategy Writing Collective is to rely on collabor
 
 [You can express you interest in joining the Emergent Strategy Writing Collective by filling out this Google form.]( https://adriennemareebrown.net/book/emergent-strategy/)
 
-“Fiction that centers those who are currently marginalized —not to be nice, but because those who survive on the margins tend to be the most experientially innovative—practicing survival-based efficiency, doing the most with the least, an important skill area on a planet whose resources are under assault by less marginalized people. Visionary fiction is constantly applying lessons from our past to our future(s). The best way to practice visionary fiction is to get to writing. […] You have worlds inside you. You have permission to share them.”— adrienne maree brown in Emergent Strategy: Shaping Change, Changing Worlds
+<small>
+> "Fiction that centers those who are currently marginalized —not to be nice, but because those who survive on the margins tend to be the most experientially innovative—practicing survival-based efficiency, doing the most with the least, an important skill area on a planet whose resources are under assault by less marginalized people. Visionary fiction is constantly applying lessons from our past to our future(s). The best way to practice visionary fiction is to get to writing. […] You have worlds inside you. You have permission to share them.” — adrienne maree brown in _Emergent Strategy: Shaping Change, Changing Worlds_
+</small>
 
 [^1]: adrienne maree brown‘s definition of collaborative ideation: “At the human scale, in order to create a world that works for more people, for more life, we have to collaborate on the process of dreaming and visioning and implementing that world. We have to recognize that a multitude of realities have, do, and will exist. Collaborative Ideation is a way to get into this—ideation is the process of birthing new ideas, and the practice of collaborative ideation is about sharing that process as early as possible. This is not to say there is no space for individual creation—I love the selfishness of closing the world out and unleashing the realm of my imagination and creativity. But how do we disrupt the constant individualism of creation when it comes to society, our shared planet, our resources? The more people who cocreate the future, the more people whose concerns will be addressed from the foundational level in this world.” adrienne maree brown, Emergent Strategy: Shaping Change, Changing Worlds (Chico, CA: AK Press, 2017). <br>
 
