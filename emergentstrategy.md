@@ -13,9 +13,9 @@
 
 .ve-header "The Emergent Strategy Writing Collective — Call for Collaborators" position=top sticky background=gh:Lore3581/media/Computer.jpeg
 <br><br>
-
+<small>
 > “in order to create a world that works for more people, for more life, we have to collaborate on the process of dreaming and visioning and implementing that world. We have to recognize that a multitude of realities have, do, and will exist. Collaborative Ideation is a way to get into this—ideation is the process of birthing new ideas, and the practice of collaborative ideation is about sharing that process as early as possible.” — adrienne maree brown in _Emergent Strategy: Shaping Change, Changing Worlds_
-
+</small>
 # Introduction
 
 The Emergent Strategy Writing Collective seeks to utilize collaboratively written fiction to imagine, create, and communicate new possibilities and considerations for our world.
