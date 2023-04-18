@@ -8,17 +8,7 @@
     #juncture h2 { font-size: 28px; }
 </style>
 
-.ve-header "Module 2: Historicizing Data" position=top sticky background=gh:Lore3581/da4a-juncture/media/Header_ColorEdited_maxim-hopman-fiXLQXAhCfk-unsplash.jpg
-    - [Homepage](https://data4all.com)
-    - [All Modules](https://data4all.com/modules)
-    - [2.1 Overview](#overview)
-    - [2.2 Learning Outcomes](#outcomes) 
-    - [2.3 Key Concepts](#concepts)
-    - [2.4 Readings](#readings)
-    - [2.5 Schedule](#schedule)
-    - [2.7 Assignments](#assignments)
-
-Call for Collaborators
+.ve-header "The Emergent Strategy Writing Collective — Call for Collaborators" position=top sticky background=gh:Lore3581/da4a-juncture/media/Header_ColorEdited_maxim-hopman-fiXLQXAhCfk-unsplash.jpg
 
 > “in order to create a world that works for more people, for more life, we have to collaborate on the process of dreaming and visioning and implementing that world. We have to recognize that a multitude of realities have, do, and will exist. Collaborative Ideation is a way to get into this—ideation is the process of birthing new ideas, and the practice of collaborative ideation is about sharing that process as early as possible.” — adrienne maree brown in _Emergent Strategy: Shaping Change, Changing Worlds_
 
