@@ -1,5 +1,7 @@
 .ve-style https://fonts.googleapis.com/css?family=Montserrat
 
+@import url('https://fonts.googleapis.com/css?family=Montserrat');
+
 <style>
     #juncture { font-family: Montserrat; font-size: 20px; }
     
