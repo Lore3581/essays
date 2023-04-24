@@ -1,8 +1,8 @@
 <style>
     
-    @import url('https://stackpath.bootstrapcdn.com/font-awesome/4.4.0/css/font-awesome.min.css');
+    @import url('https://github.com/antijingoist/opendyslexic/blob/master/compiled/opendyslexic.otf');
     
-    #juncture { font-family: font-awesome; font-size: 20px; }
+    #juncture { font-family: 'opendyslexic'; font-size: 20px; }
     
     #juncture h1 { font-size: 32px; color: #CF0F98; font-weight: 600; }
     
