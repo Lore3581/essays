@@ -1,8 +1,9 @@
 @font-face {
-    font-family: OpenDyslexic;
-    src: url("../essays/opendyslexic/font/OpenDyslexic-Regular.otf") format('opentype');
-    font-weight: bold;
+    font-family: 'OpenDyslexic';
+    src: url("https://github.com/Lore3581/essays/blob/main/opendyslexic/font/OpenDyslexic-Regular.otf") format('opentype');
+    font-weight: normal;
     font-style: normal;
+
 }
 
 <style>
