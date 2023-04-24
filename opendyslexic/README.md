@@ -1,16 +1,8 @@
-@font-face {
-    font-family: 'OpenDyslexic';
-    src: url("https://github.com/Lore3581/essays/blob/main/opendyslexic/font/OpenDyslexic-Regular.otf") format('opentype');
-    font-weight: normal;
-    font-style: normal;
-
-}
-
 <style>
     
-    @import url('https://fonts.googleapis.com/css?family=Montserrat');
+    @import url('https://stackpath.bootstrapcdn.com/font-awesome/4.4.0/css/font-awesome.min.css');
     
-    #juncture { font-family: Montserrat; font-size: 20px; }
+    #juncture { font-family: font-awesome; font-size: 20px; }
     
     #juncture h1 { font-size: 32px; color: #CF0F98; font-weight: 600; }
     
