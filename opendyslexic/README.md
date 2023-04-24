@@ -1,4 +1,9 @@
-.ve-style https://github.com/antijingoist/opendyslexic/blob/master/compiled/opendyslexic.otf
+@font-face {
+    font-family: OpenDyslexic;
+    src: url("../essays/opendyslexic/font/OpenDyslexic-Regular.otf") format('opentype');
+    font-weight: bold;
+    font-style: normal;
+}
 
 <style>
     
