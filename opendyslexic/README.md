@@ -1,13 +1,10 @@
-<style>
-    
-    @import url('https://github.com/antijingoist/opendyslexic/blob/master/compiled/opendyslexic.otf');
-    
-    #juncture { font-family: 'opendyslexic'; font-size: 20px; }
-    
-    #juncture h1 { font-size: 32px; color: #CF0F98; font-weight: 600; }
-    
-    #juncture h2 { font-size: 28px; }
-</style>
+@font-face {
+  font-family: "opendyslexic";
+  src: url('https://github.com/antijingoist/opendyslexic/blob/master/compiled/opendyslexic.otf') format('embedded-opentype'),
+    url('https://github.com/antijingoist/opendyslexic/blob/master/compiled/OpenDyslexic-Bold-Italic.woff') format('woff'),
+  font-weight: normal;
+  font-style: normal;
+}
 
 .ve-header "The Emergent Strategy Writing Collective — Call for Collaborators" position=top sticky background=gh:Lore3581/media/Computer.jpeg
 <br>
